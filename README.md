@@ -2,7 +2,7 @@
 Data Crawling,Cleaning,Visualization;Word Doc Auto Generation;Math modeling
 
 
-                                                Detailed Description: See 0)documentation
+                                       Detailed Description: See 0)documentation
 # Automation of literature mining ###########################################################################################
 1) subtract pharmacokinetic section from RCP from ‘base-donnees-publique.medicaments.gouv.fr’ based on random IDs loop---return to excel
 2) search of papers based on drug substance name and keywords (key in at prompt) from PubMed and return [article title, author, abstract,link] in excel 
